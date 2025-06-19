@@ -2,6 +2,9 @@
 
 Hi I am Shivansh Kaushik I have created this project for the assignment given by Educase India for their internship drive. 
 
+# Live Website
+
+https://educasetask.vercel.app/
 
 ## 🛠️ Tech Stack
 
